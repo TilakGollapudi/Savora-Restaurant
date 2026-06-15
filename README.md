@@ -8,7 +8,6 @@
 [![MySQL](https://img.shields.io/badge/Database-MySQL-blue?style=flat-square&logo=mysql)](https://www.mysql.com/)
 [![License](https://img.shields.io/badge/License-MIT-green?style=flat-square)](LICENSE)
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat-square)
-
 [Features](#-features) • [Installation](#-installation--setup) • [Usage](#-usage) • [Architecture](#-architecture) • [Contributing](#-contributing)
 
 </div>
