@@ -79,7 +79,7 @@
 Savora-Restaurant/
 │
 ├── src/main/java/com/rms/
-│   ├─�� models/                             # Entity classes (Order, MenuItem, etc.)
+│   ├── models/                             # Entity classes (Order, MenuItem, etc.)
 │   ├── controllers/                        # Business logic & coordination
 │   ├── views/                              # UI Components (Panels, Dialogs)
 │   ├── database/                           # DAO & database operations
