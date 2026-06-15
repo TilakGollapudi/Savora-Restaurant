@@ -241,7 +241,6 @@ java -cp .:lib/* com.rms.Main
 
 | Role | Username | Password |
 |------|----------|----------|
-| Admin | admin | admin123 |
 | Manager | manager | manager123 |
 | Staff | staff | staff123 |
 
