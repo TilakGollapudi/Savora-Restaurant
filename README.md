@@ -495,27 +495,8 @@ This project is licensed under the **MIT License** - see the [LICENSE](LICENSE) 
 
 For issues, questions, or suggestions:
 - Open an [Issue](https://github.com/TilakGollapudi/Savora-Restaurant/issues)
-- Email: [Your Email]
-- Discord/Slack: [Your Community Links]
+- Email: gollapudithilak1308@gmail.com
 
----
-
-## 🎯 Roadmap
-
-### Q3 2026
-- [ ] Mobile application (iOS & Android)
-- [ ] REST API endpoints
-- [ ] Advanced reporting dashboard
-
-### Q4 2026
-- [ ] Payment gateway integration (Stripe, PayPal)
-- [ ] Multi-language support
-- [ ] Cloud deployment (AWS, Azure)
-
-### Q1 2027
-- [ ] Machine learning for demand forecasting
-- [ ] Integration with delivery platforms
-- [ ] Enhanced security features
 
 ---
 
