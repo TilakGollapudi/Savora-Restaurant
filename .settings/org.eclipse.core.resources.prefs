@@ -1,0 +1,11 @@
+eclipse.preferences.version=1
+encoding//src/main/webapp/admin/dashboard.jsp=UTF-8
+encoding//src/main/webapp/admin/manage_category.jsp=UTF-8
+encoding//src/main/webapp/admin/manage_food.jsp=UTF-8
+encoding//src/main/webapp/admin/manage_orders.jsp=UTF-8
+encoding//src/main/webapp/admin/reports.jsp=UTF-8
+encoding//src/main/webapp/customer/cart.jsp=UTF-8
+encoding//src/main/webapp/customer/checkout.jsp=UTF-8
+encoding//src/main/webapp/customer/orders.jsp=UTF-8
+encoding//src/main/webapp/customer/viewReservations.jsp=UTF-8
+encoding/<project>=UTF-8
