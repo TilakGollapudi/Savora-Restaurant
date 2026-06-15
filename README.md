@@ -96,14 +96,12 @@ Savora-Restaurant/
 │   ├── config/
 │   │   └── database.properties             # Database configuration
 │   └── images/                             # Application images/icons
-│
-├── lib/                                    # External JAR dependencies
+|
 │
 ├── .classpath                              # Eclipse classpath configuration
 ├── .project                                # Eclipse project configuration
 ├── .settings/                              # Eclipse IDE settings
 ├── .gitignore                              # Git ignore rules
-├── pom.xml                                 # Maven configuration
 ├── README.md                               # Project documentation
 └── LICENSE                                 # License information
 ```
